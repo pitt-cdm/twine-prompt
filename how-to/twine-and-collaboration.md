@@ -13,11 +13,11 @@ Here's how it'll work:
 * Download the latest version of [Twine](http://twinery.org/), if you can and you haven't yet done so.
 
 ## First Edits
-* **One of you**, fire up Twine and start a new story with the green +Story button. ![twine main menu](how-to/twine-screenshot--main-menu.png)
+* **One of you**, fire up Twine and start a new story with the green +Story button. ![twine main menu](twine-screenshot--main-menu.png)
 * Make a few edits: I suggest a title screen as your first passage. You can always edit it later!
   - Twine will save automatically: click outside the passage to go back to the map.
-* Use the menu at the bottom left to **Publish to File**. Be sure to _save the resulting html file into your local repository folder._ ![twine story map menu](how-to/twine-screenshot--story-map-menu.png)
-  - Note that you can also access this export tool from the gear menu in the list of stories. ![twine story list menu](how-to/twine-screenshot--gear-menu.png)
+* Use the menu at the bottom left to **Publish to File**. Be sure to _save the resulting html file into your local repository folder._ ![twine story map menu](twine-screenshot--story-map-menu.png)
+  - Note that you can also access this export tool from the gear menu in the list of stories. ![twine story list menu](twine-screenshot--gear-menu.png)
 * Using either the command line or the GitHub app, **add** the file you just exported, write a **commit** message to tell your colleagues what you've changed, and **push** your changes.
 
 
