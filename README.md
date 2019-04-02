@@ -33,6 +33,10 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 ## Collaborative Guidelines
 Will be in another file, to keep this one straightforward. See [twine-and-collaboration.md](how-to/twine-and-collaboration.md).
 
+Here's a summary:
+<img src="how-to/twine-flow-chart.png" alt="flow chart of collaboration steps made with twine engine" style="margin: 0 auto;" />
+
+
 
 ## Deadlines and products
 At each stage, unless otherwise specified, upload (push) your materials to your group's copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, _please keep your filenames clear, lowercase, and space-free_ (use hyphens or underscores).
