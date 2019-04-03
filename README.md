@@ -31,7 +31,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 
 
 ## Collaborative Guidelines
-Will be in another file, to keep this one straightforward. See [twine-and-collaboration.md](how-to/twine-and-collaboration.md).
+Will be in another file, to keep this one straightforward. See [twine-and-collaboration.md](how-to/twine-and-collaboration.md). <!-- FOR NEXT TIME: move this up to the root directory (people don't think to open the subdirectory unless asked to). Don't forget to update the image src references. -->
 
 Here's a summary:
 <img src="how-to/twine-flow-chart.png" alt="flow chart of collaboration steps made with twine engine" style="margin: 0 auto;" />
